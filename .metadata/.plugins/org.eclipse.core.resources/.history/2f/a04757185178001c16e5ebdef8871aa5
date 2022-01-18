@@ -1,0 +1,5 @@
+package com.java.registration.dao;
+
+public class EmployeeDao {
+
+}
